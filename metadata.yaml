@@ -1,0 +1,31 @@
+_repo: The-crisis-A-record-of-the-darker-races-Vol-I-No-3-January-1911_71650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71650'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044012439774&view=1up&seq=69
+pgterms:marc905: 20200528174329various
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Richard Tonsing, hekula03, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York City :$bNational Association for the Advancement of
+  Colored People, $c1910, reprint 1969.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The crisis: A record of the darker races, Vol. I, No. 3, January 1911'
+url: http://www.gutenberg.org/ebooks/71650
